@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "bun-pypi",
+  "versions": [
+    {
+      "commit": "26ef65de45ea661e462080b1891cc9832f06b35e",
+      "parsed_at": "2026-10-10T07:42:23.507550+00:00",
+      "filetree": "filetree/26ef65de45ea661e462080b1891cc9832f06b35e.nq.gz",
+      "blobs": [
+        "blob/579875fe90ab5b2d8ae78781bdc345525a26a21e.nq.gz",
+        "blob/7c0db670dc120428783cf59da504011d424bb291.nq.gz",
+        "blob/28b4f21748c96ccc0f5e1d38dc3ffffb24a1df7b.nq.gz",
+        "blob/a7845e094cf482b5d41940aca6ff1dbecb64ff52.nq.gz",
+        "blob/3b79d580b657d07e1b625adddcd3178d68694563.nq.gz",
+        "blob/7ba76bdd51493d7b10a0f0eb6df1c0c2bddc20fd.nq.gz",
+        "blob/c6031940f530f4bd033820421f93f3d0bffe7112.nq.gz",
+        "blob/a986298b02d8469d020f4ae4d89d8b56c20d133e.nq.gz",
+        "blob/879b22a0a0284efc3ca513e6c71be0f343ec18c0.nq.gz",
+        "blob/b8a4007c5473f4f92e781a82f627647fe771681a.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/076983cdc2b9450ed83069f75bc71a5c8ec9bca1.nq.gz",
+        "blob/4d8d9aaa57a7781810a17350a4e29c53e90ed5e8.nq.gz",
+        "blob/64a9c010c00dbe4ad54807b9116bde80e24dd3ac.nq.gz",
+        "blob/67e16c71991166ea5b0e6b82a77fae7ec7d32901.nq.gz",
+        "blob/487f205adb26a7b35eac88d95da1a97c5f86150c.nq.gz",
+        "blob/632865269b88782626b675a52861511f27eb3e9f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
