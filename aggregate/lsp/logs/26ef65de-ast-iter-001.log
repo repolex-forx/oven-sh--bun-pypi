@@ -1,0 +1,7 @@
+[2026-10-10T07:44:34Z] === AST ITERATION 1 START | repo=oven-sh/bun-pypi sha=26ef65de ===
+[2026-10-10T07:44:34Z] [iter=1] PHASE START: ast repo=oven-sh/bun-pypi sha=26ef65de
+[2026-10-10T07:44:34Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T07:44:37Z] [iter=1] AST chunks built count=1 triples=31029
+[2026-10-10T07:44:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/26ef65de45ea661e462080b1891cc9832f06b35e/.complete
+[2026-10-10T07:44:37Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-10-10T07:44:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
